@@ -11,7 +11,7 @@ const [toggle, setToggle] = useState(false);
 
   
   return (
-    <nav className='w-full flex items-center fixed top-2 bg-off-white h-[70px] z-40' >      
+    <nav className='w-full flex items-center fixed top-0 bg-off-white h-[90px] z-40' >      
       <div className='w-full flex justify-between items-center max-w-6xl mx-auto'>
         <Link to='/'
         className='flex items-center mx-4'

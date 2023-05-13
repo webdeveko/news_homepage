@@ -12,7 +12,7 @@ const hero = () => {
             <h1 className='text-[56px] font-bold max-w-[350px] leading-none mx-4'>The Bright Future of Web 3.0?</h1>
             <div className='flex flex-col justify-between ml-[15px] max-w-[350px]'>
               <p>We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fulfilling its promise?</p>
-              <button className='bg-soft-red text-off-white h-[48px] w-[185px] hover:bg-very-dark-blue font-bold'>Read More</button>
+              <button className='bg-soft-red text-off-white h-[48px] w-[185px] hover:bg-very-dark-blue font-bold my-3'>Read More</button>
             </div>
           </div>
         </div>
