@@ -1,4 +1,4 @@
-import heroImage from "./heroImage.jpg";
+import heroImage from "./HeroImage.jpg";
 import gaming from "./image-gaming-growth.jpg";
 import retro from "./image-retro-pcs.jpg";
 import laptop from "./image-top-laptops.jpg";
